@@ -201,9 +201,7 @@ body{
             flex-direction: row;
 
             img{
-                margin-top: 5px;
-                width: auto;
-                height: 25px;
+                align-self: top;
             }
         }
         .phone{
