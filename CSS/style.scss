@@ -199,9 +199,9 @@ body{
         .location{
             display: flex;
             flex-direction: row;
+            align-items: center;
 
             img{
-                align-self: top;
                 align-items: center;
             }
         }
